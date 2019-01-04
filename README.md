@@ -9,6 +9,10 @@ git clone https://github.com/aakashjhawar/Image-Watermarking.git
 cd Image-Watermarking
 ```
 (Execute the main.m file) 
+
+## About DCT
+You can read more about DCT2 here[DCT](https://in.mathworks.com/help/images/ref/dct2.html)
+
 ## Prerequisites
 
 - MATLAB
