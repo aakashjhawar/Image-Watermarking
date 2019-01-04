@@ -10,8 +10,8 @@ cd Image-Watermarking
 ```
 (Execute the main.m file) 
 
-## About DCT
-You can read more about DCT2 [here](https://in.mathworks.com/help/images/ref/dct2.html).
+## Discrete Cosine Transformation
+You can read about DCT2 [here](https://in.mathworks.com/help/images/ref/dct2.html).
 
 ## Prerequisites
 
