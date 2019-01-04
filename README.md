@@ -8,7 +8,7 @@ How to use
 git clone https://github.com/aakashjhawar/Image-Watermarking.git
 cd Image-Watermarking
 ```
-(Run the main.m file on MATLAB) 
+(Execute the main.m file) 
 ## Prerequisites
 
 - MATLAB
@@ -24,15 +24,15 @@ cd Image-Watermarking
 
 ## Working 
 
-#### Input image of Sudoku-
-![Input image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/sudoku.jpg)
+#### Original Image & Logo-
+![Input image of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/original%20image.jpg)
 
-#### Image of Sudoku after thresholding-
-![Threshold image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/threshold.jpg)
-
-#### Contour corners of Sudoku-
-![Contour of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/contour.jpg)
-
+#### Watermarked Image & Comparision-
+![Threshold image of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/watermarked_comparision.png)
+The white part represent that there is difference between Original image and watermarked image.
+#### Dewatermarked Image & Comparision-
+![Contour of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/dewatermarked_comparision.png)
+The all black part represent that there is no difference between Original image and watermarked image.
 #### Warp Image-
 ![Warp of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/warp.jpg)
 
