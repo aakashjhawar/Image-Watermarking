@@ -27,23 +27,15 @@ cd Image-Watermarking
 #### Original Image & Logo-
 ![Input image of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/original%20image.jpg)
 
-#### Watermarked Image & Comparision-
+#### Watermarked Image & its comparision-
 ![Threshold image of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/watermarked_comparision.png)
+
+
 The white part represent that there is difference between Original image and watermarked image.
-#### Dewatermarked Image & Comparision-
+#### Dewatermarked Image & its comparision-
 ![Contour of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/dewatermarked_comparision.png)
+
+
 The all black part represent that there is no difference between Original image and watermarked image.
-#### Warp Image-
-![Warp of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/warp.jpg)
-
-#### Final output of ExtractSudoku-
-![Final image of sudoku](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/final.jpg)
-
-
-#### Extracted grid-
-![extracted grid](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/extracted_grid.png)
-
-#### Solved grid-
-![Solved grid](https://github.com/aakashjhawar/SolveSudoku/blob/master/images/solved_grid.png)
-
-*This code is still in initial stage and require further modifications. 
+#### Comparision between different images-
+![Warp of sudoku](https://github.com/aakashjhawar/Image-Watermarking/blob/master/images/comparision.jpg)
